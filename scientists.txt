@@ -1,3 +1,4 @@
 Gauss
 Poincarré
 Cauchy
+Pythagore
